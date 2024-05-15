@@ -1,11 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'amanBlog'
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "MyMind"
 
- [params]
-  dateFormat = "Jan 2, 2006"
+[params]
+description = "Open your mind"
+dateFormat = "Jan 2, 2006"
 
 [taxonomies]
- category = "categories"
- author = "authors"
+category = "categories"
+author = "authors"
+
 

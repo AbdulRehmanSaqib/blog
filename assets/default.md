@@ -7,5 +7,5 @@ image = ""
 imageBig = ""
 categories = ["general"]
 authors = ["Aman"]
-avatar = "/images/avatar.webp"
+avatar = "/images/favicon-32x32.png"
 +++
