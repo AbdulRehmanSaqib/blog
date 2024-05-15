@@ -3,11 +3,11 @@ title = 'My Fifth Post My Fifth Post My Fifth Post '
 date = 2023-11-22T16:55:24+01:00
 draft = false
 description = "This is not a description"
-image = "/images/5s.webp"
-imageBig = "/images/5b.webp"
+image = "/blog/images/5s.webp"
+imageBig = "/blog/images/5b.webp"
 categories = ["general", "life", "coding"]
 authors = ["Lama Dev"]
-avatar = "/images/favicon-32x32.png"
+avatar = "/blog/images/favicon-32x32.png"
 +++
 
 # 10 Tips for Productive Remote Work
