@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on amanBlog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on amanBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2024 23:51:24 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-2/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-2/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-3/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-3/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-4/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-4/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-5/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-5/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-6/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-6/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-7/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-7/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-8/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-8/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy-9/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy-9/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post-copy/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post-copy/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 14 May 2024 23:51:24 +0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Title H1 Title H2 H3 Tag this is a bold text&#xA;to be or not to be&#xA;List item1 List item1 List item1 first item second third code sample&#xA;lama dev website</description>
+    </item>
+  </channel>
+</rss>
